@@ -1,4 +1,10 @@
-# Health Bot Container
+# Get User Location by IP
+This repo is a fork of the Microsoft Health Bot Container Sample.  It uses 3rd party APIs to go a Ge-location reverse lookup of the user's location via thier IP Address.  The thought behind this is to be able to drive the user to a testing site and/or hospital/care center to get help with their COVID-19 Symptoms.  
+
+
+
+# Setup 
+## Original Health Bot Container Instructions
 
 **Note:** In order to use this Web Chat with the Health Bot service, you will need to obtain your Web Chat secret by going to ["Integration/Secrets"](./secrets.png) on the navigation panel.
 Please refer to [Microsoft Health Bot](https://www.microsoft.com/en-us/research/project/health-bot/) for a private preview and details.
